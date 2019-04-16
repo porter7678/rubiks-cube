@@ -10,7 +10,9 @@ There is an input field at the top of the webpage where you can first input the 
 
 Note: I did not design the online Rubik's Cube animation found at that link
 
+![](Rubik'sGif.gif)
+
 # Group Theory
 One of the challenges of this project was finding a convenient way to number the different faces of the Rubik's Cube. The faces were numbered using the mathematical principle of modular congruence. This allowed us to idenitfy what type of piece we were working with (middle edge, corner, etc).
 
-![](Rubik'sGif.gif)
+
