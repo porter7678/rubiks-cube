@@ -6,7 +6,7 @@ This program scrambles and then solves a Rubik's Cube.
 
 For an online virtual Rubik's Cube go to the following link: https://math.byu.edu/~doud/FastRubik/
 
-There is an input field at the top of the webpage where you can first copy and paste the "Scramble" sequence, then click "Turn", then after it is done scrambling, input the "Solution" sequence.
+There is an input field at the top of the webpage where you can first copy and paste the "Scramble" sequence output from my code, then click "Turn", then after it is done scrambling, input the "Solution" sequence output from my code.
 
 Note: I did not design the online Rubik's Cube animation found at that link
 
